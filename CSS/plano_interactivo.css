@@ -34,7 +34,7 @@
 }
 
 .st12 {
-  font-family: FiraSans-Light, 'Fira Sans';
+  font-family: 'FiraSans-Light', 'Fira Sans';
   font-weight: 300;
 }
 
@@ -67,12 +67,12 @@
 }
 
 .st6 {
-  font-family: FiraSans-Regular, 'Fira Sans';
+  font-family: 'FiraSans-Regular', 'Fira Sans';
   font-size: 12px;
 }
 
 .st13 {
-  font-family: FiraSans-ExtraLight, 'Fira Sans';
+  font-family: 'FiraSans-ExtraLight', 'Fira Sans';
   font-weight: 200;
   letter-spacing: .07em;
 }
@@ -138,7 +138,7 @@
 
 
 .middlebar {
-  font-family: FiraSans-Bold, 'Fira Sans';
+  font-family: 'FiraSans-Bold', 'Fira Sans';
 
   display: flex;
   flex-direction: column;
@@ -274,7 +274,7 @@
 #plano-antiguo-pasillo-cristal:hover {
   fill: #fff;
   font-weight: 700;
-  font-family: FiraSans-Bold, 'Fira Sans';
+  font-family: 'FiraSans-Bold', 'Fira Sans';
 }
 
 #plano-antiguo-pasillo-cristal-A003:hover .st3 {
