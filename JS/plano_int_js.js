@@ -385,7 +385,7 @@ const mapData = {
 
 
 	"plano-antiguo-A210": {
-		title: "CUA",
+		title: "Taller de Audiovisuales",
 		description: "EDIFICIO ANTIGUO · PLANTA 2 · A210",
 		imagen: "2x/A210-Taller-AudioVisuales.png"
 	},
